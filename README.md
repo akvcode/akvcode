@@ -8,10 +8,11 @@ Hi, I'm Akash Vishwakarma, a passionate web developer dedicated to building inno
 ## Skills
 ------------
 
-* Programming languages: HTML, CSS, JavaScript, PHP, Node.js
-* Frameworks: React, Angular, 
+* Programming languages: HTML, CSS, JavaScript, PHP
+* Frameworks: React, Angular, Vue.js
 * Databases: MySQL, MongoDB
 * Version control: Git
+* Agile development methodologies
 
 
 ## Contact
