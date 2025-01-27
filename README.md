@@ -21,7 +21,7 @@ Feel free to reach out to me:
 
 
 * Email: [akash@skytup.com](mailto:akash@skytup.com)
-* LinkedIn: [linkedin.com/in/akash222](https://www.linkedin.com/in/akash140)
+* LinkedIn: [linkedin.com/in/akash140](https://www.linkedin.com/in/akash140)
 * GitHub: [github.com/skytup](https://github.com/skytup)
 
 
